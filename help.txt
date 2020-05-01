@@ -1,0 +1,12 @@
+Di seguito la lista dei comandi utilizzabili su questo bot:
+
+    - /andamentogiornaliero <symbol> : Visualizza l'andamento giornaliero del titolo passato come parametro (inserire il simbolo del titolo)
+    - /andamentosettimanale <symbol> : Visualizza l'andamento settimanale del titolo passato come parametro (inserire il simbolo del titolo)
+    - /andamentomensile <symbol>: Visualizza l'andamento mensile del titolo passato come parametro (inserire il simbolo del titolo)
+    - /symbolsearch <symbolname>: Visualizza i risultati della ricerca del titolo passato come parametro(indicare il nome del titolo)
+        -Mostra tutti i risultati
+        -Mostra solo titoli FTSEMIB         (Filtri da selezionare tramite keyboard)
+        -Mostra solo titoli EUR
+        -Mostra solo titoli USD
+
+Per la visualizzazione dei suggerimenti per i comandi disponibili, digitare '/'

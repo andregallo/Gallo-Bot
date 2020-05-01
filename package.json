@@ -1,0 +1,21 @@
+{
+  "name": "gallo_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
